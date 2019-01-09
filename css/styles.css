@@ -1,10 +1,10 @@
 body {
-  text-align: center;
+  text-align: right;
   list-style-position: inside;
-  background-color: grey;
+  background-color: darkred;
 }
 
 h1 {
   font-weight: bold;
-  color: darkblue;
+  color: salmon;
 }
